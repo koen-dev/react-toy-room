@@ -14,6 +14,11 @@ module.exports = {
     resolve: {
         extensions: ['.js', '.jsx', '.json']
     },
+    devServer: {
+        host: "0.0.0.0",
+        open: true,
+        overlay: true
+    },
     module: {
         loaders: [
             {

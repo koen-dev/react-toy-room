@@ -1,0 +1,19 @@
+{
+  "name": "react-toy-room",
+  "version": "0.1.0",
+  "description": "React app for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koen028/react-toy-room.git"
+  },
+  "author": "Koen Hendriks <hendriks.k@ziggo.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Koen028/react-toy-room/issues"
+  },
+  "homepage": "https://github.com/Koen028/react-toy-room#readme"
+}
